@@ -2,7 +2,7 @@
 
 ### Soy un desarrollador Android.
 
-Me gusta estar actualizado en cuanto a las tecnologías más utilizadas en el desarrollo de aplicaciones Android, así como practicar lo aprendido desarrollando pequeños proyectos.
+Me gusta estar actualizado en cuanto a las tecnologías más utilizadas en el desarrollo de aplicaciones Android, así como practicar lo aprendido creando pequeños proyectos.
 
 ### Habilidades
 ![](https://img.shields.io/badge/lang-Kotlin-orange) ![](https://img.shields.io/badge/sgdb-SQLite-blue) ![](​https://img.shields.io/badge/vcs-Git-lightgrey) ![](https://img.shields.io/badge/di-Dagger%20Hilt-yellow) ![](https://img.shields.io/badge/web-Retrofit-green) ![](https://img.shields.io/badge/agile-Scrum-red)
