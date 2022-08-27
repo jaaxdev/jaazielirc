@@ -8,8 +8,8 @@ Me gusta estar actualizado en cuanto a las tecnologías más utilizadas en el de
 ![](https://img.shields.io/badge/lang-Kotlin-orange) ![](https://img.shields.io/badge/sgdb-SQLite-blue) ![](​https://img.shields.io/badge/vcs-Git-lightgrey) ![](https://img.shields.io/badge/di-Dagger%20Hilt-yellow) ![](https://img.shields.io/badge/web-Retrofit-green) ![](https://img.shields.io/badge/agile-Scrum-red)
 
 ### Actualmente
-- 🔭 Estoy trabajando en dominar el patrón MVVM y la inyección de dependencias
-- :bookmark_tabs: Quiero aprender a hacer testing
+- 🔭 Estoy trabajando en profundizar y dominar el patrón MVVM y la inyección de dependencias.
+- :bookmark_tabs: Quiero mejorar en el testing unitario
 - ⚡ Datos curiosos: Me gusta aprender mayormente por mí mismo, soy muy bueno redactando documentación y los idiomas se me facilitan mucho
 
 ### Repositorios destacables
