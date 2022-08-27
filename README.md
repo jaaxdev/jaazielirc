@@ -10,7 +10,7 @@ Me gusta estar actualizado en cuanto a las tecnologías más utilizadas en el de
 ### Actualmente
 - 🔭 Estoy trabajando en dominar el patrón MVVM y la inyección de dependencias
 - :bookmark_tabs: Quiero aprender a hacer testing
-- ⚡ Datos curiosos: Soy autodidacta, soy muy bueno redactando documentación y aprendiendo idiomas
+- ⚡ Datos curiosos: Me gusta aprender mayormente por mí mismo, soy muy bueno redactando documentación y los idiomas se me facilitan mucho
 
 ### Repositorios destacables
 - :chains: [AGtive](https://play.google.com/store/apps/details?id=com.jaax.agtive&hl=es_MX&gl=US) es mi primera aplicación publicada en la Playstore
