@@ -9,7 +9,7 @@ Me gusta estar actualizado en cuanto a las tecnologías más utilizadas en el de
 
 ### Actualmente
 - 🔭 Estoy trabajando en profundizar y dominar el patrón MVVM y la inyección de dependencias.
-- :bookmark_tabs: Quiero mejorar en el testing unitario
+- :bookmark_tabs: Quiero aprender a manejar los tipos de testing de aplicaciones.
 - ⚡ Datos curiosos: Me gusta aprender mayormente por mí mismo, soy muy bueno redactando documentación y los idiomas se me facilitan mucho
 
 ### Repositorios destacables
